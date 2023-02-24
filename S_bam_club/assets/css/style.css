@@ -553,7 +553,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f3f2;
+  background-color: #ddd;
 }
 
 .section-title {
@@ -566,7 +566,7 @@ section {
   font-weight: 300;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #65534c;
+  color: #20262e;
 }
 
 .section-title h2 strong {
@@ -582,7 +582,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #2b2320;
+  background: #20262e;
   min-height: 40px;
 }
 
@@ -602,7 +602,7 @@ section {
 }
 
 .breadcrumbs ol a {
-  color: #fe825a;
+  color: #ffffff;
 }
 
 .breadcrumbs ol li+li {
@@ -986,7 +986,7 @@ section {
 .about-us .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #f03c02;
+  color: #516c8d;
 }
 
 .about-us .content .icon-box p {
@@ -1127,7 +1127,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #f03c02;
+  background-color: #516c8d;
 }
 
 /*--------------------------------------------------------------
